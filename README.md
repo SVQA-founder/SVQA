@@ -4,7 +4,7 @@ The SVQA(Synthetic Video Question Answering) dataset contains 12000 videos and a
 # Video and QA Pair Examples
 | QA Category|Question|Answer|Video(GIF)
 | :----------------- | --------------------------------- | ----------------------------- | ---------------------------------------- |
-|Attribute Comparison|Do the cylinder behind the small cube and the gray cylinder perform the same type of action?|Yes|![](GIF/3997.gif)|
+|Attribute Comparison|Do the cylinder left to the red ball and the gray cylinder perform the same type of action?|No|![](GIF/3997.gif)|
 |Count|How many cylinders behind the big cylinder that moves left?|5|![](GIF/377.gif)|
 |Query|What is the color of the object that is rotating behind the black object, and to the right of the yellow object in the beginning?|Blue|![](GIF/1792.gif)|
 |Integer Comparison|Are there more balls that are moving backward than small red cylinders?|No|![](GIF/4929.gif)|
