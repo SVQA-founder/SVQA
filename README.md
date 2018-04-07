@@ -5,10 +5,10 @@ The SVQA(Synthetic Video Question Answering) dataset contains 12000 videos and a
 | QA Category|Question|Answer|Video(GIF)
 | :----------------- | --------------------------------- | ----------------------------- | ---------------------------------------- |
 |Attribute Comparison|![](GIF/6.jpg)|no|![](GIF/3997.gif)|
-|Count|How many cylinders behind the big cylinder that moves left?|5|![](GIF/377.gif)|
-|Query|What is the color of the object that is rotating behind the black object, and to the right of the yellow object in the beginning?|blue|![](GIF/1792.gif)|
-|Integer Comparison|Are there more balls that are moving backward than small red cylinders?|no|![](GIF/4929.gif)|
-|Exist|A green cylinder shows up, does a gray cylinder that rotates whose starting time earlier than it?|yes|![](GIF/6517.gif)|
+|Count|![](GIF/7.jpg)|5|![](GIF/377.gif)|
+|Query|![](GIF/8.jpg)|blue|![](GIF/1792.gif)|
+|Integer Comparison|![](GIF/9.jpg)|no|![](GIF/4929.gif)|
+|Exist|![](GIF/10.jpg)|yes|![](GIF/6517.gif)|
 
 
 ## Statistics of SVQA
