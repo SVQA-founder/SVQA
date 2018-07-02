@@ -26,7 +26,7 @@ Video question answering (VideoQA) always involves visual reasoning. When answer
 ## Dataset
 The SVQA(Synthetic Video Question Answering) dataset contains 12000 videos and around 120k QA pairs. Videos and QA pairs are all generated automatically with minimal language biases and clearly defined question categories. The dataset can facilitate the analysis on models reasoning skills.
 
-You can download the dataset from this [link](http://www.google.com/).
+You can download the dataset from this [link](http://www.google.com/) (coming soon).
 
 ### Video and QA Pair Examples
 
@@ -83,7 +83,7 @@ You can download the dataset from this [link](http://www.google.com/).
 
 ## Code
 
-The code will be available on [here](https://github.com/SVQA-founder/code)
+The code is on [here](https://github.com/SVQA-founder/SVQA/tree/master/code)
 
 
 
