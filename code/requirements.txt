@@ -1,0 +1,7 @@
+h5py
+numpy
+tqdm
+json
+scipy
+scikit-image
+pandas
